@@ -1,0 +1,1 @@
+export default function Header(){ return (<header><h1 className="text-4xl font-extrabold">Top 100 Hollywood Movies <span className="text-indigo-400">Premium</span></h1><p className="text-gray-400 mt-1">Search, filter, posters, TMDb-backed details & premium UI.</p></header>); }
