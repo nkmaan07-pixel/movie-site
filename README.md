@@ -18,3 +18,4 @@
 3. Deploy (Vercel will run `npm install` and `npm run build` automatically).
 
 Note: If you don't set the API key, the app will still work but posters won't load from TMDb.
+redeploy
